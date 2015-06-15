@@ -26,7 +26,7 @@
         };
 
         $.ajax({
-          url: 'http://emergent.dev/public/api/nextgen',
+          url: 'http://emergent.abitlost.com/api/nextgen',
           jsonp: 'callback',
           dataType: 'jsonp',
           data: data,
